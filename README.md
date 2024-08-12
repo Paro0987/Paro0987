@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **react.js, node.js etc**
 
-- 💬 Ask me about **react, node**
+- 💬 Ask me about anything <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
 
 - 📫 How to reach me **mistryparomita97@gmail.com**
 
