@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **react.js, node.js etc**
 
-- 💬 Ask me about anything <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+- 💬 Ask me about anything <a href="https://github.com/Paro0987/Paro0987/issues" title="Issues">Here</a>
 
-- 📫 How to reach me **mistryparomita97@gmail.com**
+- 📫 You can reach me at **mistryparomita97@gmail.com**
 
-- ⚡ Fun fact **I love painting**
+- ⚡ Fun fact **I love painting!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
