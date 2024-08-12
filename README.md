@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **react.js, node.js and other exciting technologies.**
 
-- 💬 Ask me about anything <a href="https://github.com/Paro0987/Paro0987/issues" title="Issues">**Here**</a>—I’m happy to help!
+- 💬 Ask me about anything <a href="https://github.com/Paro0987/Paro0987/issues" title="Issues">**Here**</a>—**I’m happy to help!**
 
 - 📫 You can reach me at **mistryparomita97@gmail.com**
 
