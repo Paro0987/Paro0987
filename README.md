@@ -9,9 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paro0987&label=Profile%20views&color=0e75b6&style=flat" alt="paro0987" /> </p>
 
 
-- 🌱 I’m currently learning **react.js, node.js etc**
+- 🌱 I’m currently learning **react.js, node.js and other exciting technologies.**
 
-- 💬 Ask me about anything <a href="https://github.com/Paro0987/Paro0987/issues" title="Issues">Here</a>
+- 💬 Ask me about anything <a href="https://github.com/Paro0987/Paro0987/issues" title="Issues">**Here**</a>—I’m happy to help!
 
 - 📫 You can reach me at **mistryparomita97@gmail.com**
 
