@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Paromita....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<img align="right" alt="coding" width="430" src="https://tenor.com/en-IN/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">
+<img align="right" alt="coding"  src="https://animesher.com/orig/0/57/574/5747/animesher.com_work-manga-girl-574780.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paro0987&label=Profile%20views&color=0e75b6&style=flat" alt="paro0987" /> </p>
 
