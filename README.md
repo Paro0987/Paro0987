@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Paromita....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<img align="right" alt="coding" width="430" height="300" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
+<img align="right" alt="coding" width="430" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/c44c1690013661.5e0a009911e87.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paro0987&label=Profile%20views&color=0e75b6&style=flat" alt="paro0987" /> </p>
 
